@@ -1,5 +1,5 @@
 In some update northwood broke copy ID, SteamID and IP. There now ", " instead of ".", but no one in-game command doesn't support this.
-Even the basic give or forceclass command use "." instead of ", "
+Even the basic give or forceclass command use "." instead of ", ".
 This plugin fixes copy.
 
 ![image](https://github.com/user-attachments/assets/9167a219-ea81-4904-b7bc-4c84092126e0)
